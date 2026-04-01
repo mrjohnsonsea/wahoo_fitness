@@ -16,11 +16,11 @@ Wahoo Fitness designs GPS cycling computers, running watches, and smart trainers
 
 Three customer segments emerged from the clustering analysis:
 
-| Segment | Avg. Age | Profile |
-|---------|----------|---------|
-| **Casual Cyclist** | ~40 | Indoor cycling focus; price-sensitive; low equipment investment; does not engage with performance data — not Wahoo's target customer |
-| **Dedicated Cyclist** | ~45 | Outdoor cycling specialist; knowledgeable; owns GPS cycling computers and bike trainers; data-driven — high CLV |
-| **Multi-Sport Athlete** | ~38 | Participates in cycling, running, and triathlon; premium equipment buyer; highest data engagement and least price-sensitive — highest CLV |
+| Segment | Profile |
+|---------|---------|
+| **Casual Cyclist** | Indoor cycling focus; price-sensitive; low equipment investment; does not engage with performance data — not Wahoo's target customer |
+| **Dedicated Cyclist** | Outdoor cycling specialist; knowledgeable; owns GPS cycling computers and bike trainers; data-driven — high CLV |
+| **Multi-Sport Athlete** | Participates in cycling, running, and triathlon; premium equipment buyer; highest data engagement and least price-sensitive — highest CLV |
 
 ---
 
