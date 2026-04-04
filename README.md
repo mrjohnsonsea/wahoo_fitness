@@ -81,3 +81,5 @@ wahoo_fitness/
 ## Academic Context
 
 Completed for **MARK 6580 — Customer Analytics** at Georgetown University's McDonough School of Business (MSBA program).
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
